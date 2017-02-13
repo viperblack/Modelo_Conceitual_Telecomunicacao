@@ -4,5 +4,5 @@ Utilizando o aplicativo dia (Disponível em: http://dia-installer.de/download/in
 
 Particularidades:
 
-1. O relacionamento entre equipamentos será feito por outra ferramenta;
+1. O relacionamento entre equipamentos será feito por outra ferramenta, neste caso em específico pelo HP Service Manager v9.41;
 2. As "primary keys": Unidade coletora são providas pelo SAP.
